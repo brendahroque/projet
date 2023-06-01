@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding: 0;
+
+} 
+header{
+    background-color: #82E5FB;
+    color: black; 
+    height: auto; 
+    display: flex;
+    justify-content: space-between;
+    padding: 10px ;
+    font-size: 30px;
+}
+.novos{
+  padding-left: 600px;
+  font-size: 100px;
+}
+.barra{
+  padding-left: 200px;
+  width:1000px;
+  height: 100px;
+}
+.ar{
+  width: 200px;
+  height: 200px; 
+}
+.conteiner{
+display: flex;
+
+}
+.carrinho{
+  width: 100px;
+  height: 100px; 
+  padding-left: 350px;
+}
+
+.colt{
+  display: flex;
+  align-items: center;
+  
+}
+.colt figure.avatar img {
+  position: absolute;
+}
+.garaffa{
+  width: 100px;
+  height: 100px;
+}
+.colt figure.avatar{
+  width: 1000px;
+  padding-left: 350px;
+  background-image:url('maldivas.png');
+}
+.text{
+  padding-top: 300px;
+  padding-left: 700px;
+  font-size: 50px;
+}
+.Ar-de-paris{
+  padding-left: 50px;
+}
+.paris{
+  width: 300px;
+  height: 300px;
+  padding-left: 3px;
+  padding-top:3px;
+}
+.rel1{
+  padding-left: 100px;
+}
+
+.div-texto-um{
+  padding-left: 3px;
+  padding-top: 500px;
+}
+.veneza{
+  width: 300px;
+  height: 300px;
+ 
+}
+.dubai{
+  width: 300px;
+  height: 300px;
+  
+}
+.rel2{
+  padding-left: 100px;
+}
+.rel3{
+  padding-left: 100px;
+}
+.AR-de-veneza{
+  padding-left: 50px;
+}
+.AR-de-dubai{
+  padding-left: 50px;
+}
+.cacun{
+  width: 300px;
+  height: 300px;
+ 
+}
+.zaragoza{
+  width: 300px;
+  height: 300px;
+  
+}
+.rel4{
+  padding-left: 100px;
+}
+.rel5{
+  padding-left: 100px;
+}
+.rel6{
+  padding-left: 100px;
+}
+.Ar-de-dubai{
+  padding-left: 50px;
+}
+.Ar-de-cacun{
+  padding-left: 50px;
+}
+.AR-de-zaragoza{
+  padding-left: 50px;
+}
+.AR-de-londres{
+  padding-left: 50px;
+}
+.londres{
+  width: 300px;
+  height: 300px;
+  
+}
+.todos-ar{
+  display: grid;
+  grid-template-columns:5% 30% 30% 30% 5% ;
+}
+button{
+  background-color: #BCF5FD;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+
+}
+.espaço{
+  width: 50%;
+  color: black;
+  cursor: pointer;
+}
+
+.rel7{
+  padding-left: 100px;
+}
+.categoria{
+    width: 300px;
+    height: 500px; 
+}
+.loja{
+  background-image: linear-gradient(#82E5FB,#75D2A6);
+}
